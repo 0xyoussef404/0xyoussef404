@@ -1,10 +1,29 @@
 <h1 align="center"> Hey, I'm Youssef Mohamed</h1>
 
+
+
+<h3 align="center">📬 Contact with Me</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/youssef-mohamed-b37a8427b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://x.com/" target="_blank"><img src="https://img.shields.io/badge/X.com-000000.svg?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/youssef-mohamed-b37a8427b/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+  </a>
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30" />
+  </a>
+  <a href="https://www.instagram.com/youss_efmohamec" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" />
+  </a>
+  <a href="https://x.com/Youssef12142311" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X" width="30" />
+  </a>
+  <a href="mailto:ym1190732@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30" />
+  </a>
 </p>
+
+
+
 
 ---
 

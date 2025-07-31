@@ -28,56 +28,33 @@ I'm **Youssef Mohamed**, a highly driven cybersecurity enthusiast with a sharp f
 
 ---
 
-<!-- Timeline section -->
 ## 🕰️ Cybersecurity Journey
 
 ```mermaid
 timeline
     title From Curiosity to Cyber Mastery
-    2021 : First Exposure to Kali Linux and BurpSuite
-    2022 : Solved 100+ Rooms on TryHackMe
-    2023 : Earned eJPT and eWPT, Ranked #1 in Egypt
+    2023 : First Exposure to Kali Linux and BurpSuite
+    2023 : Solved 100+ Rooms on TryHackMe
+    2024 : Earned eJPT and eWPT, Ranked #1 in Egypt
     2024 : Built Custom Red Team Lab + Public Tools
     2025 : Launching PayloadVault & AutoXSS Tools
 ```
 
 ---
 
-<!-- skills section -->
-<h2>⚔️ Skill Arsenal (Animated)</h2>
-<style>
-@keyframes fadeInBadge {
-  0% { opacity: 0; transform: translateY(10px); }
-  100% { opacity: 1; transform: translateY(0); }
-}
-.skill-badge {
-  display: inline-block;
-  margin: 8px;
-  opacity: 0;
-  animation: fadeInBadge 0.6s ease forwards;
-}
-.skill-badge:nth-child(1) { animation-delay: 0.2s; }
-.skill-badge:nth-child(2) { animation-delay: 0.4s; }
-.skill-badge:nth-child(3) { animation-delay: 0.6s; }
-.skill-badge:nth-child(4) { animation-delay: 0.8s; }
-.skill-badge:nth-child(5) { animation-delay: 1s; }
-.skill-badge:nth-child(6) { animation-delay: 1.2s; }
-.skill-badge:nth-child(7) { animation-delay: 1.4s; }
-.skill-badge:nth-child(8) { animation-delay: 1.6s; }
-.skill-badge:nth-child(9) { animation-delay: 1.8s; }
-.skill-badge:nth-child(10) { animation-delay: 2s; }
-</style>
-<p>
-  <img class="skill-badge" src="https://img.shields.io/badge/BurpSuite-orange?logo=burpsuite&style=for-the-badge" />
-  <img class="skill-badge" src="https://img.shields.io/badge/ZAP_Proxy-black?logo=OWASP&style=for-the-badge" />
-  <img class="skill-badge" src="https://img.shields.io/badge/sqlmap-maroon?style=for-the-badge" />
-  <img class="skill-badge" src="https://img.shields.io/badge/XSStrike-purple?style=for-the-badge" />
-  <img class="skill-badge" src="https://img.shields.io/badge/httpx+katana-blue?style=for-the-badge" />
-  <img class="skill-badge" src="https://img.shields.io/badge/Nmap-0073a9?logo=nmap&style=for-the-badge" />
-  <img class="skill-badge" src="https://img.shields.io/badge/Metasploit-framework-0f0f0f?logo=metasploit&style=for-the-badge" />
-  <img class="skill-badge" src="https://img.shields.io/badge/Wireshark-blue?logo=wireshark&style=for-the-badge" />
-  <img class="skill-badge" src="https://img.shields.io/badge/Kali_Linux-informational?logo=kalilinux&style=for-the-badge" />
-  <img class="skill-badge" src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge" />
+## ⚔️ Skill Arsenal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BurpSuite-orange?logo=burpsuite&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ZAP_Proxy-black?logo=OWASP&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/sqlmap-maroon?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XSStrike-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/httpx+katana-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nmap-0073a9?logo=nmap&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metasploit-framework-0f0f0f?logo=metasploit&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-blue?logo=wireshark&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kali_Linux-informational?logo=kalilinux&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge" />
 </p>
 
 ---

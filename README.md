@@ -12,7 +12,7 @@
 
 I'm **Youssef Mohamed**, a highly driven cybersecurity enthusiast with a sharp focus on offensive security, red teaming, and vulnerability assessment.
 
-- 🎓 3rd-year CS student | GPA: 3.6
+- 🎓 4rd-year CS student | GPA: 3.6
 - 🥇 **Top 1%** on TryHackMe | Former #1 in Egypt
 - 📜 Certified: eJPT, eWPT, Linux+, CCNA
 - 🧪 Solved 160+ rooms on TryHackMe and countless PortSwigger labs

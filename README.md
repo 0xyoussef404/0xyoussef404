@@ -1,30 +1,5 @@
 <h1 align="center"> Hey, I'm Youssef Mohamed</h1>
 
-
-
-<h3 align="center">📬 Contact with Me</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/youssef-mohamed-b37a8427b/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
-  </a>
-  <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30" />
-  </a>
-  <a href="https://www.instagram.com/youss_efmohamec" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" />
-  </a>
-  <a href="https://x.com/Youssef12142311" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X" width="30" />
-  </a>
-  <a href="mailto:ym1190732@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30" />
-  </a>
-</p>
-
-
-
-
 ---
 
 ## 👨‍💻 About Me
@@ -95,6 +70,26 @@ timeline
 - 🔍 [`xss-scanner`](https://github.com/youssef-mo55/xss-scanner): A Python tool to scan web pages for XSS vulnerabilities.
 - 📚 [`book-scraper`](https://github.com/youssef-mo55/book-scraper): Extracts metadata from books to scrape.
 
+---
+<h3 align="center">📬 Contact with Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/youssef-mohamed-b37a8427b/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+  </a>
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30" />
+  </a>
+  <a href="https://www.instagram.com/youss_efmohamec" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" />
+  </a>
+  <a href="https://x.com/Youssef12142311" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X" width="30" />
+  </a>
+  <a href="mailto:ym1190732@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30" />
+  </a>
+</p>
 ---
 
 <p align="center">

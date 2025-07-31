@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Youssef Mohamed</h1>
+<h1 align="center"> Hey, I'm Youssef Mohamed</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/youssef-mohamed-b37a8427b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

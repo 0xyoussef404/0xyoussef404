@@ -26,6 +26,10 @@ I'm **Youssef Mohamed**, a highly driven cybersecurity enthusiast with a sharp f
 - 💣 Hands-on with OWASP Top 10, Active Directory exploitation, and red team tactics
 - 💼 Goal: Join a world-class red team and build automation for modern exploit chains
 
+> 🧠 **Extended Summary**
+>
+> With a solid foundation in networking, systems, and red teaming, I leverage a wide range of tools and frameworks to emulate real-world threats and discover unknown vulnerabilities. From mastering protocol analysis with Wireshark to building automated fuzzers in Python, I’m obsessed with pushing the boundaries of offensive security. I approach penetration testing with the mindset of a determined adversary but document everything like a professional blue teamer. My passion isn’t just about breaking in — it’s about improving defense through realistic simulation.
+
 ---
 
 ## 🕰️ Cybersecurity Journey
@@ -33,9 +37,9 @@ I'm **Youssef Mohamed**, a highly driven cybersecurity enthusiast with a sharp f
 ```mermaid
 timeline
     title From Curiosity to Cyber Mastery
-    2023 : First Exposure to Kali Linux and BurpSuite
-    2023 : Solved 100+ Rooms on TryHackMe
-    2024 : Earned eJPT and eWPT, Ranked #1 in Egypt
+    2021 : First Exposure to Kali Linux and BurpSuite
+    2022 : Solved 100+ Rooms on TryHackMe
+    2023 : Earned eJPT and eWPT, Ranked #1 in Egypt
     2024 : Built Custom Red Team Lab + Public Tools
     2025 : Launching PayloadVault & AutoXSS Tools
 ```

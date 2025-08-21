@@ -67,8 +67,9 @@ timeline
 
 ## 📂 Featured Repositories
 
-- 🔍 [`xss-scanner`](https://github.com/youssef-mo55/xss-scanner): A Python tool to scan web pages for XSS vulnerabilities.
+- 📚 [`xss-scanner`](https://github.com/youssef-mo55/xss-scanner): A Python tool to scan web pages for XSS vulnerabilities.
 - 📚 [`book-scraper`](https://github.com/youssef-mo55/book-scraper): Extracts metadata from books to scrape.
+- 📚 [`minicope`](https://github.com/youssef-mo55/miniscope): A Python tool to subdomain enumeration combine many tools.
 
 ---
 <h3 align="center">📬 Contact with Me</h3>

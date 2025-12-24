@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Youssef Mohamed**, a highly driven cybersecurity enthusiast with a sharp focus on offensive security, red teaming, and vulnerability assessment. I'm a 4th-year CS student with a GPA of 3.6 and a mission to join a world-class red team. I ranked in the top 1% on TryHackMe and previously held the #1 spot in Egypt. I'm certified in eJPT, eWPT, Linux+, and CCNA. I've solved over 160 rooms on TryHackMe, tackled numerous PortSwigger labs, and developed a range of custom Python tools for XSS scanning, recon, and fuzzing. My hands-on experience covers OWASP Top 10 vulnerabilities, Active Directory exploitation, and advanced red team tactics.
+I'm **Youssef Mohamed**, a highly driven cybersecurity enthusiast with a sharp focus on offensive security, red teaming, and vulnerability assessment. I'm a 4th-year CS student with a GPA of 3.8 and a mission to join a world-class red team. I ranked in the top 1% on TryHackMe and previously held the #1 spot in Egypt. I'm certified in eJPT, eWPT, Linux+, and CCNA. I've solved over 160 rooms on TryHackMe, tackled numerous PortSwigger labs, and developed a range of custom Python tools for XSS scanning, recon, and fuzzing. My hands-on experience covers OWASP Top 10 vulnerabilities, Active Directory exploitation, and advanced red team tactics.
 
 ---
 

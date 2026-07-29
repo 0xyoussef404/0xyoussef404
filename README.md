@@ -77,7 +77,7 @@
 | 🏆 STAT | 📊 VALUE |
 |:--:|:--:|
 | TryHackMe Rank | **#1 in Egypt** (extended period) |
-| HackerOne Reports | **20+ valid, accepted** |
+| HackerOne Reports | **20+ valid, accepted (Only Critical & High)** |
 | Platforms Active | HackerOne · TryHackMe · HTB Academy · PortSwigger Academy |
 
 </div>
